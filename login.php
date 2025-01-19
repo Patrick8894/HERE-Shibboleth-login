@@ -1,6 +1,4 @@
 <?php
-ini_set('log_errors', 1);
-ini_set('error_log', '/home/bohaowu2/logs/php_errors.log');
 
 require 'vendor/autoload.php';
 use \Firebase\JWT\JWT;
